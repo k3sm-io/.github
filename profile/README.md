@@ -17,6 +17,7 @@ opt-in, in a per-pod Virtualization.framework micro-VM through the `vm` RuntimeC
 | [darwin-net](https://github.com/k3sm-io/darwin-net) | Pod networking: loopback IP-per-pod, Service proxy, wireguard mesh |
 | [apis](https://github.com/k3sm-io/apis) | Shared gRPC, CRD and Go contracts |
 | [app](https://github.com/k3sm-io/app) | The macOS app: a menu bar status item, and a window with the cluster, this Mac, the nodes and a workloads console |
+| [k3sm-sdk-cpp](https://github.com/k3sm-io/k3sm-sdk-cpp) | A header-only C++ client for the node pressure and headroom API (the API design is in progress) |
 | [linux-guest](https://github.com/k3sm-io/linux-guest) | Pinned guest kernel and initramfs releases for the `vm` RuntimeClass |
 
 ## status
