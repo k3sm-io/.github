@@ -18,6 +18,7 @@ opt-in, in a per-pod Virtualization.framework micro-VM through the `vm` RuntimeC
 | [apis](https://github.com/k3sm-io/apis) | Shared gRPC, CRD and Go contracts |
 | [app](https://github.com/k3sm-io/app) | The macOS app: a menu bar status item, and a window with the cluster, this Mac, the nodes and a workloads console |
 | [k3sm-sdk-cpp](https://github.com/k3sm-io/k3sm-sdk-cpp) | A header-only C++ client for the node pressure and headroom API (the API design is in progress) |
+| [k3sm-sdk-swift](https://github.com/k3sm-io/k3sm-sdk-swift) | A Swift client for the node pressure and headroom API (the API design is in progress) |
 | [linux-guest](https://github.com/k3sm-io/linux-guest) | Pinned guest kernel and initramfs releases for the `vm` RuntimeClass |
 
 ## status
